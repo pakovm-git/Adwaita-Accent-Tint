@@ -1,4 +1,4 @@
-# Adwaita-Accent-Tint
+# Adwaita Accent Tint
 A lightweight, native-feeling CSS theme for GNOME 49+ (GTK4/Libadwaita) that subtly blends your system accent color into the application backgrounds.
 
 This theme uses GTK's `mix()` function against the **official Libadwaita base hex codes**. The result is a 7.5% tint that preserves all native shadows, card depths, and high-contrast elements.
