@@ -17,7 +17,7 @@ Because Flatpak applications run in an isolated sandbox, they cannot see your cu
 
 Run this command in your terminal:
 ```bash
-flatpak override --user --filesystem=xdg-config/gtk-4.0:ro
+flatpak override --user --filesystem=xdg-config/gtk-4.0:ro```
 
 
 ## Donate
