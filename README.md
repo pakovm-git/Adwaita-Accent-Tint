@@ -3,6 +3,11 @@ A lightweight, native-feeling CSS theme for GNOME 48+ (GTK4/Libadwaita) that sub
 
 This theme uses GTK's `mix()` function against the **official Libadwaita base hex codes**. The result is a 7.5% tint that preserves all native shadows, card depths, and high-contrast elements.
 
+
+https://github.com/user-attachments/assets/d747ee28-6757-4348-bf28-1a60e32ef28a
+
+
+
 ## Installation
 
 ### 1. Apply to Native Apps
