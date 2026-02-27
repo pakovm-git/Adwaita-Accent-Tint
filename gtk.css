@@ -33,19 +33,19 @@
  * ========================================= */
 @media (prefers-color-scheme: dark) {
     /* Base Variables */
-    @define-color window_bg_color mix(#222226, @accent_bg_color, 0.075);
-    @define-color view_bg_color mix(#1d1d20, @accent_bg_color, 0.075);
-    @define-color headerbar_bg_color mix(#2e2e32, @accent_bg_color, 0.075);
-    @define-color headerbar_backdrop_color mix(#222226, @accent_bg_color, 0.075);
-    @define-color popover_bg_color mix(#36363a, @accent_bg_color, 0.075);
-    @define-color dialog_bg_color mix(#36363a, @accent_bg_color, 0.075);
-    @define-color card_bg_color mix(rgba(255, 255, 255, 0.08), @accent_bg_color, 0.075); 
-    @define-color sidebar_bg_color mix(#2e2e32, @accent_bg_color, 0.075);
-    @define-color sidebar_backdrop_color mix(#28282c, @accent_bg_color, 0.075);
-    @define-color sidebar_border_color mix(rgba(0, 0, 0, 0.36), @accent_bg_color, 0.075);
-    @define-color secondary_sidebar_bg_color mix(#28282c, @accent_bg_color, 0.075);
-    @define-color secondary_sidebar_backdrop_color mix(#252529, @accent_bg_color, 0.075);
-    @define-color secondary_sidebar_border_color mix(rgba(0, 0, 0, 0.25), @accent_bg_color, 0.075);
+    @define-color window_bg_color mix(#222226, @accent_bg_color, 0.05);
+    @define-color view_bg_color mix(#1d1d20, @accent_bg_color, 0.05);
+    @define-color headerbar_bg_color mix(#2e2e32, @accent_bg_color, 0.05);
+    @define-color headerbar_backdrop_color mix(#222226, @accent_bg_color, 0.05);
+    @define-color popover_bg_color mix(#36363a, @accent_bg_color, 0.05);
+    @define-color dialog_bg_color mix(#36363a, @accent_bg_color, 0.05);
+    @define-color card_bg_color mix(rgba(255, 255, 255, 0.08), @accent_bg_color, 0.05); 
+    @define-color sidebar_bg_color mix(#2e2e32, @accent_bg_color, 0.05);
+    @define-color sidebar_backdrop_color mix(#28282c, @accent_bg_color, 0.05);
+    @define-color sidebar_border_color mix(rgba(0, 0, 0, 0.36), @accent_bg_color, 0.05);
+    @define-color secondary_sidebar_bg_color mix(#28282c, @accent_bg_color, 0.05);
+    @define-color secondary_sidebar_backdrop_color mix(#252529, @accent_bg_color, 0.05);
+    @define-color secondary_sidebar_border_color mix(rgba(0, 0, 0, 0.25), @accent_bg_color, 0.05);
 
     /* Specific Element Overrides (Dark) */
     @define-color panel_bg_color @window_bg_color;
